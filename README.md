@@ -7,10 +7,13 @@ This repository contains my daily Python solutions to LeetCode problems.
 - Arrays
 - Strings
 - Linked List
-- Hash Maps
+- Stacks
+- Queues
+- Binary Trees
 - Recursion
+- Grphs
 - Dynamic Programming
 
 ## 🚀 Progress
-- Total problems solved: 30+
+- Total problems solved: 40+
 - Updated daily with new challenges 💪
